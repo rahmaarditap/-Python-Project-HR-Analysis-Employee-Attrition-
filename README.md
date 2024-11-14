@@ -1,4 +1,4 @@
-# [SQL Project] HR Analysis: Employee Attrition Analysis
+# [Python Project] HR Analysis: Employee Attrition Analysis
 
 ## Business Problem
 One of the challenges for companies is employee attrition, particularly when it leads to the loss of skilled workers, increased recruitment costs, and reduced overall productivity. Understanding the employee attrition patterns and identifying key factors that influence attrition can help companies develop strategies to improve employee retention.
