@@ -21,7 +21,9 @@ One of the challenges for companies is employee attrition, particularly when it 
 2. Exploratory Data Analysis (EDA)
 
 ## Solution
-[click here to see solution] (https://github.com/rahmaarditap/-Python-Project-HR-Analysis-Employee-Attrition-/blob/main/Employee_Attrition_Analysis_Cleaning_and_Analysis.ipynb)
+[Click Here to See the Solution](https://github.com/rahmaarditap/-Python-Project-HR-Analysis-Employee-Attrition-/blob/main/Employee_Attrition_Analysis_Cleaning_and_Analysis.ipynb)
+
+
 ## Summary
 1. Overall attrition rate in this company is 17.1%
 2. Sales Representatives have the highest attrition rate (39.76%), followed by Laboratory Technicians (24.03%) and Human Resources (23.08%)
