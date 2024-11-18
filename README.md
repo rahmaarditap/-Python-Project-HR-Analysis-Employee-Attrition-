@@ -21,7 +21,7 @@ One of the challenges for companies is employee turnover, particularly when it l
 2. Exploratory Data Analysis (EDA)
 
 ## Solution
-[Click Here to See the Solution](https://github.com/rahmaarditap/-Python-Project-HR-Analysis-Employee-Turnover-/blob/main/Employee_Turnover_Analysis_Cleaning_and_Analysis.ipynb)
+[Click Here to See the Solution](https://github.com/rahmaarditap/-Python-Project-HR-Analysis-Employee-Turnover-/blob/main/Employee_Attrition_Analysis_Cleaning_and_Analysis.ipynb)
 
 
 ## Summary
